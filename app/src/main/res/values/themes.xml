@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Angelica_quishpe_lab14_3_fruits" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Angelica_quishpe_lab14_3_fruits" parent="Base.Theme.Angelica_quishpe_lab14_3_fruits" />
+</resources>
